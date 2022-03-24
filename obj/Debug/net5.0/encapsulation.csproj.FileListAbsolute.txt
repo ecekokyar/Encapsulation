@@ -1,0 +1,15 @@
+/Users/ecekokyar/Desktop/Pratikler/encapsulation/bin/Debug/net5.0/encapsulation.deps.json
+/Users/ecekokyar/Desktop/Pratikler/encapsulation/bin/Debug/net5.0/encapsulation.runtimeconfig.json
+/Users/ecekokyar/Desktop/Pratikler/encapsulation/bin/Debug/net5.0/encapsulation.runtimeconfig.dev.json
+/Users/ecekokyar/Desktop/Pratikler/encapsulation/bin/Debug/net5.0/encapsulation.dll
+/Users/ecekokyar/Desktop/Pratikler/encapsulation/bin/Debug/net5.0/ref/encapsulation.dll
+/Users/ecekokyar/Desktop/Pratikler/encapsulation/bin/Debug/net5.0/encapsulation.pdb
+/Users/ecekokyar/Desktop/Pratikler/encapsulation/obj/Debug/net5.0/encapsulation.csproj.AssemblyReference.cache
+/Users/ecekokyar/Desktop/Pratikler/encapsulation/obj/Debug/net5.0/encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecekokyar/Desktop/Pratikler/encapsulation/obj/Debug/net5.0/encapsulation.AssemblyInfoInputs.cache
+/Users/ecekokyar/Desktop/Pratikler/encapsulation/obj/Debug/net5.0/encapsulation.AssemblyInfo.cs
+/Users/ecekokyar/Desktop/Pratikler/encapsulation/obj/Debug/net5.0/encapsulation.csproj.CoreCompileInputs.cache
+/Users/ecekokyar/Desktop/Pratikler/encapsulation/obj/Debug/net5.0/encapsulation.dll
+/Users/ecekokyar/Desktop/Pratikler/encapsulation/obj/Debug/net5.0/ref/encapsulation.dll
+/Users/ecekokyar/Desktop/Pratikler/encapsulation/obj/Debug/net5.0/encapsulation.pdb
+/Users/ecekokyar/Desktop/Pratikler/encapsulation/obj/Debug/net5.0/encapsulation.genruntimeconfig.cache
